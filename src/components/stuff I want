@@ -1,0 +1,17 @@
+<!-- designed header -->
+<!-- <header>
+        <div className="navbar" style={{backgroundColor: "rgb(248, 211, 218)"}}>
+        <div className="navbar-brand" style={{alignItems: "center", display: "flex"}}>
+            <i className="fa-brands fa-shopify" style={{fontSize: "40px", padding: "5px"}}></i>  
+            <strong style={{fontFamily: "cursive"}}>Myntra</strong>
+            <div className="form-group">
+                <input className="form-control" type="text" placeholder="search for products" style= {{width: "500px", marginLeft: "50px"}} />
+            </div>
+            <span className="fas fa-search search-icon" style={{position: "absolute", zIndex: "10", right: "51%"}}></span>
+        </div>
+        <button className="btn btn-primary" style={{backgroundColor: "black", border: "0px", marginRight: "40px"}}>
+            <i className="fa-solid fa-cart-shopping" style={{fontSize: "20px"}}></i>
+            {/* <div className="badge bg-danger" style={{fontSize: "8px"}}>{{totalItem}}</div> */}
+        </button>
+    </div>
+</header> -->
